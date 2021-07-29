@@ -1,0 +1,1 @@
+document.cookie = "Rupesh = 2";
